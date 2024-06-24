@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Vinyl search" time="0.13" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Vinyl search" time="0.043" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/22.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/annabriancon/Documents/notes_cours_iut/S6/R6.A.06 Maintenance appl/maintenance_application/junit5-cucumber-maven-starter/target/surefire/surefirebooter4732415852488810344.jar /Users/annabriancon/Documents/notes_cours_iut/S6/R6.A.06 Maintenance appl/maintenance_application/junit5-cucumber-maven-starter/target/surefire 2024-06-20T16-37-33_423-jvmRun1 surefire11732989301693063467tmp surefire_012411964724715653693tmp"/>
+    <property name="sun.java.command" value="/Users/annabriancon/Documents/notes_cours_iut/S6/R6.A.06 Maintenance appl/maintenance_application/junit5-cucumber-maven-starter/target/surefire/surefirebooter1679810240100883462.jar /Users/annabriancon/Documents/notes_cours_iut/S6/R6.A.06 Maintenance appl/maintenance_application/junit5-cucumber-maven-starter/target/surefire 2024-06-20T16-39-38_140-jvmRun1 surefire8703768008879637677tmp surefire_013927259499033763178tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/annabriancon/Documents/notes_cours_iut/S6/R6.A.06 Maintenance appl/maintenance_application/junit5-cucumber-maven-starter/target/test-classes:/Users/annabriancon/Documents/notes_cours_iut/S6/R6.A.06 Maintenance appl/maintenance_application/junit5-cucumber-maven-starter/target/classes:/Users/annabriancon/.m2/repository/io/cucumber/cucumber-java/6.10.3/cucumber-java-6.10.3.jar:/Users/annabriancon/.m2/repository/io/cucumber/cucumber-core/6.10.3/cucumber-core-6.10.3.jar:/Users/annabriancon/.m2/repository/io/cucumber/cucumber-gherkin/6.10.3/cucumber-gherkin-6.10.3.jar:/Users/annabriancon/.m2/repository/io/cucumber/cucumber-gherkin-messages/6.10.3/cucumber-gherkin-messages-6.10.3.jar:/Users/annabriancon/.m2/repository/io/cucumber/messages/15.0.0/messages-15.0.0.jar:/Users/annabriancon/.m2/repository/io/cucumber/tag-expressions/3.0.1/tag-expressions-3.0.1.jar:/Users/annabriancon/.m2/repository/io/cucumber/cucumber-expressions/10.3.0/cucumber-expressions-10.3.0.jar:/Users/annabriancon/.m2/repository/io/cucumber/datatable/3.5.0/datatable-3.5.0.jar:/Users/annabriancon/.m2/repository/io/cucumber/cucumber-plugin/6.10.3/cucumber-plugin-6.10.3.jar:/Users/annabriancon/.m2/repository/io/cucumber/docstring/6.10.3/docstring-6.10.3.jar:/Users/annabriancon/.m2/repository/io/cucumber/html-formatter/13.0.0/html-formatter-13.0.0.jar:/Users/annabriancon/.m2/repository/io/cucumber/create-meta/4.0.0/create-meta-4.0.0.jar:/Users/annabriancon/.m2/repository/org/apiguardian/apiguardian-api/1.1.1/apiguardian-api-1.1.1.jar:/Users/annabriancon/.m2/repository/io/cucumber/cucumber-junit-platform-engine/6.10.3/cucumber-junit-platform-engine-6.10.3.jar:/Users/annabriancon/.m2/repository/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar:/Users/annabriancon/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/annabriancon/.m2/repository/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar:/Users/annabriancon/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar:/Users/annabriancon/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -28,7 +28,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/annabriancon/Documents/notes_cours_iut/S6/R6.A.06 Maintenance appl/maintenance_application/junit5-cucumber-maven-starter/target/surefire/surefirebooter4732415852488810344.jar"/>
+    <property name="surefire.real.class.path" value="/Users/annabriancon/Documents/notes_cours_iut/S6/R6.A.06 Maintenance appl/maintenance_application/junit5-cucumber-maven-starter/target/surefire/surefirebooter1679810240100883462.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22.0.1"/>
     <property name="user.name" value="annabriancon"/>
@@ -55,5 +55,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="Search vinyls by release year" classname="Vinyl search" time="0.128"/>
+  <testcase name="Search vinyls by release year" classname="Vinyl search" time="0.043"/>
 </testsuite>
